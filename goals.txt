@@ -1,0 +1,9 @@
+banco de dados com mongodb - mongoose framework
+npm init
+server.js
+routes
+data base connection
+root route
+model
+controller
+keep routes and controller
